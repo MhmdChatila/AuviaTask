@@ -1,0 +1,49 @@
+/* _content/AuviaTask/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-yxyy41titt] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-yxyy41titt] {
+  color: #0077cc;
+}
+
+.btn-primary[b-yxyy41titt] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-yxyy41titt], .nav-pills .show > .nav-link[b-yxyy41titt] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-yxyy41titt] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-yxyy41titt] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-yxyy41titt] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-yxyy41titt] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-yxyy41titt] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
